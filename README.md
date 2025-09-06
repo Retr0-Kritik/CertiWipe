@@ -1,2 +1,2 @@
 # CertiWipe
-SIH proj.
+SIH 2025 project
