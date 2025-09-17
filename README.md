@@ -5,8 +5,7 @@
 ![77a0d572-1a83-450c-9be1-eda411b649f0](https://github.com/user-attachments/assets/2608e344-6123-4ee5-8d79-471a57441803)
 ### Select the Disk/Files accordingly
 Screen after selecting Full Disk Sanitizer
-![2394ba88-9f11-46d3-840f-689145dd51c2](https://github.com/user-attachments/assets/155a53b2-ea85-4a77-a552-1321c471de1c)
-<br>
+![2394ba88-9f11-46d3-840f-689145dd51c2](https://github.com/user-attachments/assets/155a53b2-ea85-4a77-a552-1321c471de1c)<br/>
 Screen after selecting File Shredder and Privacy Tool
 ![33e9196a-9758-4b32-b9e3-b9c644d18c74](https://github.com/user-attachments/assets/30164192-bbe4-4ddf-8677-ceaba01147e7)
 ### The app does it's work
