@@ -1,4 +1,4 @@
-#CertiWipe
+# CertiWipe
 ### A user-friendly, cross-platform suite of tools designed to securely sanitize digital data and provide verifiable proof of erasure.
 ## Running on OS
 ### Start the app & Select the option
