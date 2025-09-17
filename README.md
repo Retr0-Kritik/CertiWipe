@@ -18,7 +18,7 @@
 ![c69a6ebc-8c74-4daa-b6b4-a5807aa84c7d](https://github.com/user-attachments/assets/9dbfa191-c9f5-45fb-b930-b5afac051987)
 <img width="889" height="617" alt="image" src="https://github.com/user-attachments/assets/a82608b3-e982-4c83-b965-84b13fc9c24d" />
 
-## .iso Bootable drive
+## Running on .iso Bootable drive
 ### The Bootable will work the same way as the app bundled with a minimal Linux OS(Arch/Ubuntu) for better sanitization of the disk
 
 ## NOTE - The app won't be able to clean HPA/DCO and SSD sectors of Android due to security parameters from Android.
